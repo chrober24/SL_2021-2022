@@ -1,4 +1,4 @@
-# SL1_2021
+# SL_2021-2022
 
 This Repository contains a collection of Google Colab notebooks for various AI models which can be used for the Synthetic Landscapes Design Studio
 
